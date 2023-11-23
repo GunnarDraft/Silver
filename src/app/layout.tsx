@@ -19,7 +19,6 @@ export default function RootLayout({
         <StyledComponentsRegistry>
         <Navbar/>
           {children}
-        
         </StyledComponentsRegistry>
       </body>
     </html>
